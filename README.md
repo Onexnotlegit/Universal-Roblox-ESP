@@ -22,8 +22,8 @@ Works on all executors: Delta, Synapse, Krnl, ScriptWare, Fluxus, Electron, etc.
 3. Paste and execute
 
 ## Configuration
-
 Edit `SETTINGS` table to customize colors, distance, thickness, etc.
 
 # Discord server:
-## https://discord.gg/HQQqneUp
+> ## https://discord.gg/HQQqneUp
+>Join Discord to receive news about new projects, announcements and much more!
